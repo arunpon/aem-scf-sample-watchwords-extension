@@ -13,7 +13,7 @@ building the sample
 installing the sample
 =====================
 
-* use the OSGI System console at http://[server]/system/console/bundles and upload the jar file found at *bundles/aem-scf-extensions*
+* use the OSGI System console at http://[server]/system/console/bundles and upload the jar file found at *bundles/aem-scf-extensions/target*
 * configure the AutoModeration component at http://[server]/system/console/configMgr - Search for automoderation
 * Add ProfanityFilter in the list of Automoderaion Sequences
 ![Screenshot](screenshot.png)
